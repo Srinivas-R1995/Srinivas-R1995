@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'M Srinivas 
+I'm an data analytics enthusiast with a passion for uncovering insights and driving data-driven decisions.
 <!--
 **Srinivas-R1995/Srinivas-R1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
